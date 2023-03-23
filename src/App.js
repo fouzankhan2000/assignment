@@ -1,5 +1,10 @@
 import { Route, Routes } from "react-router-dom";
 import Home from './Pages/Home'
+import About_The_Council from './Pages/About_The_Council';
+import Why_Need_A_Council from './Pages/Why_Need_A_Council';
+import What_We_Do from './Pages/What_We_Do';
+import Who_We_Are from './Pages/Who_We_Are';
+import Stakeholders from './Pages/Stakeholders';
 
 
 function App() {
